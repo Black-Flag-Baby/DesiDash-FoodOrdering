@@ -1,0 +1,152 @@
+.login {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #00000090;
+    display: grid;
+  }
+  
+  .login-container {
+    display: flex;
+    place-self: center;
+    width: max(23%,200px);
+    color: #808080;
+    background-color: white;
+    flex-direction: column;
+    gap: 20px;
+    padding: 25px 30px;
+    border-radius: 10px;
+    font-size: 14px;
+    animation: fadeIn 0.5s;
+
+    
+}
+
+   
+.login-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+  }
+
+.login-title .close{
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+.login-input {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+
+.login-input input{
+    outline: none;
+    border: 1px solid #c9c9c9;
+    padding: 10px;
+
+    border-radius: 10px;
+
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1f2d3d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.6;
+  }
+  
+  .login-container button:hover {
+    background-color:#1f2d3d ;
+    opacity: 1;
+  }
+
+
+  .login-condition {
+    display: flex;
+    margin-top: -5px;
+
+    align-items: start;
+  }
+
+
+  .login-condition p {
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+
+  .login-container span {
+    color: #1f2d3d;
+    cursor: pointer;
+    margin-top: -30px;
+  }
+  
+ .login-container span:hover {
+    text-decoration: underline;
+    
+  }
+  
+
+
+
+/*   
+  .login-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .login-input {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-input input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-condition {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .login-condition p {
+    margin-left: 10px;
+  }
+  
+  span {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  span:hover {
+    text-decoration: underline;
+  }
+   */
