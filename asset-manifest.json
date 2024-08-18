@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DesiDash-FoodOrdering/static/css/main.a0fb739b.css",
-    "main.js": "/DesiDash-FoodOrdering/static/js/main.2d6d6c7a.js",
+    "main.js": "/DesiDash-FoodOrdering/static/js/main.08487ee8.js",
     "static/js/453.c322bf04.chunk.js": "/DesiDash-FoodOrdering/static/js/453.c322bf04.chunk.js",
     "static/media/b1.jpg": "/DesiDash-FoodOrdering/static/media/b1.6eb4c737910b0ddc015d.jpg",
     "static/media/veg geek salad.jpg": "/DesiDash-FoodOrdering/static/media/veg geek salad.47aea0779b76ddd5fa37.jpg",
@@ -24,11 +24,11 @@
     "static/media/non_veg_3.jpg": "/DesiDash-FoodOrdering/static/media/non_veg_3.e1a92b645355d9444594.jpg",
     "index.html": "/DesiDash-FoodOrdering/index.html",
     "main.a0fb739b.css.map": "/DesiDash-FoodOrdering/static/css/main.a0fb739b.css.map",
-    "main.2d6d6c7a.js.map": "/DesiDash-FoodOrdering/static/js/main.2d6d6c7a.js.map",
+    "main.08487ee8.js.map": "/DesiDash-FoodOrdering/static/js/main.08487ee8.js.map",
     "453.c322bf04.chunk.js.map": "/DesiDash-FoodOrdering/static/js/453.c322bf04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0fb739b.css",
-    "static/js/main.2d6d6c7a.js"
+    "static/js/main.08487ee8.js"
   ]
 }
